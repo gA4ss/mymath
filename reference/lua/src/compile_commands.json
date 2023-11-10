@@ -1,0 +1,639 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "lapi.o",
+      "lapi.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/lapi.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/lapi.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "lcode.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/lcode.c"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "lctype.o",
+      "lctype.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/lctype.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/lctype.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "ldebug.o",
+      "ldebug.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/ldebug.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/ldebug.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "ldo.o",
+      "ldo.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/ldo.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/ldo.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "ldump.o",
+      "ldump.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/ldump.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/ldump.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "lfunc.o",
+      "lfunc.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/lfunc.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/lfunc.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "lgc.o",
+      "lgc.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/lgc.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/lgc.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "llex.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/llex.c"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "lmem.o",
+      "lmem.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/lmem.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/lmem.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "lobject.o",
+      "lobject.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/lobject.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/lobject.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "lopcodes.o",
+      "lopcodes.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/lopcodes.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/lopcodes.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "lparser.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/lparser.c"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "lstate.o",
+      "lstate.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/lstate.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/lstate.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "lstring.o",
+      "lstring.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/lstring.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/lstring.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "ltable.o",
+      "ltable.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/ltable.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/ltable.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "ltm.o",
+      "ltm.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/ltm.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/ltm.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "lundump.o",
+      "lundump.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/lundump.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/lundump.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "lvm.o",
+      "lvm.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/lvm.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/lvm.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "lzio.o",
+      "lzio.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/lzio.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/lzio.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "lauxlib.o",
+      "lauxlib.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/lauxlib.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/lauxlib.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "lbaselib.o",
+      "lbaselib.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/lbaselib.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/lbaselib.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "lcorolib.o",
+      "lcorolib.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/lcorolib.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/lcorolib.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "ldblib.o",
+      "ldblib.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/ldblib.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/ldblib.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "liolib.o",
+      "liolib.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/liolib.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/liolib.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "lmathlib.o",
+      "lmathlib.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/lmathlib.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/lmathlib.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "loadlib.o",
+      "loadlib.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/loadlib.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/loadlib.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "loslib.o",
+      "loslib.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/loslib.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/loslib.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "lstrlib.o",
+      "lstrlib.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/lstrlib.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/lstrlib.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "ltablib.o",
+      "ltablib.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/ltablib.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/ltablib.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "lutf8lib.o",
+      "lutf8lib.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/lutf8lib.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/lutf8lib.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "linit.o",
+      "linit.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/linit.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/linit.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "lua.o",
+      "lua.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/lua.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/lua.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=gnu99",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-DLUA_COMPAT_5_3",
+      "-DLUA_USE_MACOSX",
+      "-DLUA_USE_READLINE",
+      "-c",
+      "-o",
+      "luac.o",
+      "luac.c"
+    ],
+    "directory": "/Users/gal0is/workspace/mymath/reference/src",
+    "file": "/Users/gal0is/workspace/mymath/reference/src/luac.c",
+    "output": "/Users/gal0is/workspace/mymath/reference/src/luac.o"
+  }
+]
